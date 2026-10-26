@@ -1,0 +1,9 @@
+{
+  "name": "RailPrep RRB Exam Practice",
+  "short_name": "RailPrep",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#101827",
+  "description": "RRB GK and nursing exam practice"
+}
